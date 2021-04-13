@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zanrovi>
+    <zanrovi>
+        <zanr idZanr="1">
+            <naziv>trilera</naziv>
+        </zanr>
+        <zanr idZanr="2">
+            <naziv>animirani</naziv>
+        </zanr>
+        <zanr idZanr="3">
+            <naziv>komedija</naziv>
+        </zanr>
+        <zanr idZanr="4">
+            <naziv>horor</naziv>
+        </zanr>
+        <zanr idZanr="5">
+            <naziv>misterija</naziv>
+        </zanr>
+        <zanr idZanr="6">
+            <naziv>akcija</naziv>
+        </zanr>
+        <zanr idZanr="7">
+            <naziv>SF</naziv>
+        </zanr>
+        <zanr idZanr="8">
+            <naziv>romantična komedija</naziv>
+        </zanr>
+        <zanr idZanr="9">
+            <naziv>krimi</naziv>
+        </zanr>
+        <zanr idZanr="10">
+            <naziv>psihološki triler</naziv>
+        </zanr>
+        <zanr idZanr="11">
+            <naziv>drama</naziv>
+        </zanr>
+        <zanr idZanr="12">
+            <naziv>misterij</naziv>
+        </zanr>
+        <zanr idZanr="13">
+            <naziv>kriminalistički</naziv>
+        </zanr>
+        <zanr idZanr="14">
+            <naziv>akcioni</naziv>
+        </zanr>
+        <zanr idZanr="15">
+            <naziv>avantura</naziv>
+        </zanr>
+        <zanr idZanr="16">
+            <naziv>akcioni triler</naziv>
+        </zanr>
+    </zanrovi>
+</zanrovi>

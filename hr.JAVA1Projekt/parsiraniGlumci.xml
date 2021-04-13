@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<glumci>
+    <glumci>
+        <glumac idGlumac="1">
+            <imePrezime>Anđelka Prpić</imePrezime>
+        </glumac>
+        <glumac idGlumac="2">
+            <imePrezime>Ljubomir Bandović</imePrezime>
+        </glumac>
+        <glumac idGlumac="3">
+            <imePrezime>Danica Maksimović</imePrezime>
+        </glumac>
+        <glumac idGlumac="4">
+            <imePrezime>Milan Čučilović</imePrezime>
+        </glumac>
+        <glumac idGlumac="5">
+            <imePrezime>Juliette Lewis</imePrezime>
+        </glumac>
+        <glumac idGlumac="6">
+            <imePrezime> Mila Kunis</imePrezime>
+        </glumac>
+        <glumac idGlumac="7">
+            <imePrezime> Allison Janney</imePrezime>
+        </glumac>
+        <glumac idGlumac="8">
+            <imePrezime>Awkwafina</imePrezime>
+        </glumac>
+        <glumac idGlumac="9">
+            <imePrezime>Olga Kurylenko</imePrezime>
+        </glumac>
+        <glumac idGlumac="10">
+            <imePrezime>Kevin Janssens</imePrezime>
+        </glumac>
+        <glumac idGlumac="11">
+            <imePrezime>Joshua Wilson</imePrezime>
+        </glumac>
+        <glumac idGlumac="12">
+            <imePrezime>Amanda Prenkaj</imePrezime>
+        </glumac>
+        <glumac idGlumac="13">
+            <imePrezime>Janko Rakoš</imePrezime>
+        </glumac>
+        <glumac idGlumac="14">
+            <imePrezime>Mia Melcher</imePrezime>
+        </glumac>
+        <glumac idGlumac="15">
+            <imePrezime>Boris Barberić</imePrezime>
+        </glumac>
+        <glumac idGlumac="16">
+            <imePrezime>Nevena Rendelli</imePrezime>
+        </glumac>
+        <glumac idGlumac="17">
+            <imePrezime>Hilary Swank</imePrezime>
+        </glumac>
+        <glumac idGlumac="18">
+            <imePrezime>Michael Ealy</imePrezime>
+        </glumac>
+        <glumac idGlumac="19">
+            <imePrezime>Mike Colter</imePrezime>
+        </glumac>
+        <glumac idGlumac="20">
+            <imePrezime>K.J. Apa</imePrezime>
+        </glumac>
+        <glumac idGlumac="21">
+            <imePrezime>Sofia Carson</imePrezime>
+        </glumac>
+        <glumac idGlumac="22">
+            <imePrezime>Craig Robinson</imePrezime>
+        </glumac>
+        <glumac idGlumac="23">
+            <imePrezime>Rosamund Pike</imePrezime>
+        </glumac>
+        <glumac idGlumac="24">
+            <imePrezime>Eiza González</imePrezime>
+        </glumac>
+        <glumac idGlumac="25">
+            <imePrezime>Dianne Wiest</imePrezime>
+        </glumac>
+        <glumac idGlumac="26">
+            <imePrezime>Jelena Rakočević</imePrezime>
+        </glumac>
+        <glumac idGlumac="27">
+            <imePrezime>Boris Milivojević</imePrezime>
+        </glumac>
+        <glumac idGlumac="28">
+            <imePrezime>Marko Marković</imePrezime>
+        </glumac>
+        <glumac idGlumac="29">
+            <imePrezime>Uroš Jovčić</imePrezime>
+        </glumac>
+        <glumac idGlumac="30">
+            <imePrezime>Bojan Perić</imePrezime>
+        </glumac>
+        <glumac idGlumac="31">
+            <imePrezime>Jelena Jovičić</imePrezime>
+        </glumac>
+        <glumac idGlumac="32">
+            <imePrezime>Hadži Nenad Maričić</imePrezime>
+        </glumac>
+        <glumac idGlumac="33">
+            <imePrezime>Jelena Trkulja</imePrezime>
+        </glumac>
+        <glumac idGlumac="34">
+            <imePrezime>Dubravko Jovanović</imePrezime>
+        </glumac>
+        <glumac idGlumac="35">
+            <imePrezime>Milena Predić</imePrezime>
+        </glumac>
+        <glumac idGlumac="36">
+            <imePrezime>Sofija Maričić</imePrezime>
+        </glumac>
+        <glumac idGlumac="37">
+            <imePrezime>Milla Jovovich</imePrezime>
+        </glumac>
+        <glumac idGlumac="38">
+            <imePrezime>Tony Jaa</imePrezime>
+        </glumac>
+        <glumac idGlumac="39">
+            <imePrezime>T.I.</imePrezime>
+        </glumac>
+        <glumac idGlumac="40">
+            <imePrezime>Chloë Grace Moretz</imePrezime>
+        </glumac>
+        <glumac idGlumac="41">
+            <imePrezime>Nick Robinson</imePrezime>
+        </glumac>
+        <glumac idGlumac="42">
+            <imePrezime>Beulah Koale</imePrezime>
+        </glumac>
+        <glumac idGlumac="43">
+            <imePrezime>Taylor John Smith</imePrezime>
+        </glumac>
+        <glumac idGlumac="44">
+            <imePrezime>Dajana Čuljak</imePrezime>
+        </glumac>
+        <glumac idGlumac="45">
+            <imePrezime>Jan Kerekeš</imePrezime>
+        </glumac>
+        <glumac idGlumac="46">
+            <imePrezime>Dražen Čuček</imePrezime>
+        </glumac>
+        <glumac idGlumac="47">
+            <imePrezime>Marko Cindrić</imePrezime>
+        </glumac>
+        <glumac idGlumac="48">
+            <imePrezime>Ivan Colarić</imePrezime>
+        </glumac>
+        <glumac idGlumac="49">
+            <imePrezime>Mirna Medaković</imePrezime>
+        </glumac>
+        <glumac idGlumac="50">
+            <imePrezime>Michael Pena</imePrezime>
+        </glumac>
+        <glumac idGlumac="51">
+            <imePrezime>Rob Delaney</imePrezime>
+        </glumac>
+        <glumac idGlumac="52">
+            <imePrezime>Carey Mulligan</imePrezime>
+        </glumac>
+        <glumac idGlumac="53">
+            <imePrezime>Laverne Cox</imePrezime>
+        </glumac>
+        <glumac idGlumac="54">
+            <imePrezime>Bo Burnham</imePrezime>
+        </glumac>
+        <glumac idGlumac="55">
+            <imePrezime>Alison Brie</imePrezime>
+        </glumac>
+        <glumac idGlumac="56">
+            <imePrezime>Connie Britton</imePrezime>
+        </glumac>
+        <glumac idGlumac="57">
+            <imePrezime>Jennifer Coolidge</imePrezime>
+        </glumac>
+        <glumac idGlumac="58">
+            <imePrezime>Jodie Foster</imePrezime>
+        </glumac>
+        <glumac idGlumac="59">
+            <imePrezime>Tahar Rahim</imePrezime>
+        </glumac>
+        <glumac idGlumac="60">
+            <imePrezime>Benedict Cumberbatch</imePrezime>
+        </glumac>
+        <glumac idGlumac="61">
+            <imePrezime> Shailene Woodley</imePrezime>
+        </glumac>
+        <glumac idGlumac="62">
+            <imePrezime>Daisy Ridley</imePrezime>
+        </glumac>
+        <glumac idGlumac="63">
+            <imePrezime>Tom Holland</imePrezime>
+        </glumac>
+        <glumac idGlumac="64">
+            <imePrezime>Mads Mikkelsen </imePrezime>
+        </glumac>
+        <glumac idGlumac="65">
+            <imePrezime>Tara Thaller</imePrezime>
+        </glumac>
+        <glumac idGlumac="66">
+            <imePrezime>Krešimir Mikić</imePrezime>
+        </glumac>
+        <glumac idGlumac="67">
+            <imePrezime>Noa Zelenko</imePrezime>
+        </glumac>
+        <glumac idGlumac="68">
+            <imePrezime>Petra Svrtan</imePrezime>
+        </glumac>
+        <glumac idGlumac="69">
+            <imePrezime>Barbara Nola</imePrezime>
+        </glumac>
+        <glumac idGlumac="70">
+            <imePrezime>Frank Grillo</imePrezime>
+        </glumac>
+        <glumac idGlumac="71">
+            <imePrezime>Mel Gibson</imePrezime>
+        </glumac>
+        <glumac idGlumac="72">
+            <imePrezime>Naomi Watts</imePrezime>
+        </glumac>
+        <glumac idGlumac="73">
+            <imePrezime>Annabelle Wallis</imePrezime>
+        </glumac>
+        <glumac idGlumac="74">
+            <imePrezime>Matthew Modine</imePrezime>
+        </glumac>
+        <glumac idGlumac="75">
+            <imePrezime>Adain Bradley</imePrezime>
+        </glumac>
+        <glumac idGlumac="76">
+            <imePrezime>Charlotte Vega </imePrezime>
+        </glumac>
+        <glumac idGlumac="77">
+            <imePrezime>Frano Mašković</imePrezime>
+        </glumac>
+        <glumac idGlumac="78">
+            <imePrezime>Nataša Dorčić</imePrezime>
+        </glumac>
+        <glumac idGlumac="79">
+            <imePrezime>Jelena Vukmirica Makovičić</imePrezime>
+        </glumac>
+        <glumac idGlumac="80">
+            <imePrezime>Filip Križan</imePrezime>
+        </glumac>
+        <glumac idGlumac="81">
+            <imePrezime>Mirela Brekalo Popović</imePrezime>
+        </glumac>
+        <glumac idGlumac="82">
+            <imePrezime>Millie Bobby Brown</imePrezime>
+        </glumac>
+        <glumac idGlumac="83">
+            <imePrezime>Alexander Skarsgard</imePrezime>
+        </glumac>
+        <glumac idGlumac="84">
+            <imePrezime>Srđan Timarov</imePrezime>
+        </glumac>
+        <glumac idGlumac="85">
+            <imePrezime>Paulina Manov</imePrezime>
+        </glumac>
+        <glumac idGlumac="86">
+            <imePrezime>Đurđina Radić</imePrezime>
+        </glumac>
+        <glumac idGlumac="87">
+            <imePrezime>Sergej Bulatović</imePrezime>
+        </glumac>
+        <glumac idGlumac="88">
+            <imePrezime>Scarlett Johansson</imePrezime>
+        </glumac>
+        <glumac idGlumac="89">
+            <imePrezime>Florence Pugh</imePrezime>
+        </glumac>
+        <glumac idGlumac="90">
+            <imePrezime>Rachel Weisz</imePrezime>
+        </glumac>
+        <glumac idGlumac="91">
+            <imePrezime>David Harbour</imePrezime>
+        </glumac>
+        <glumac idGlumac="92">
+            <imePrezime>Ryan Reynolds</imePrezime>
+        </glumac>
+        <glumac idGlumac="93">
+            <imePrezime>Jodie Comer</imePrezime>
+        </glumac>
+        <glumac idGlumac="94">
+            <imePrezime>Joe Keery</imePrezime>
+        </glumac>
+        <glumac idGlumac="95">
+            <imePrezime>Lil Rel Howery</imePrezime>
+        </glumac>
+        <glumac idGlumac="96">
+            <imePrezime>Utkarsh Ambudkar</imePrezime>
+        </glumac>
+        <glumac idGlumac="97">
+            <imePrezime>Taika Waititi</imePrezime>
+        </glumac>
+        <glumac idGlumac="98">
+            <imePrezime>Vera Farmiga</imePrezime>
+        </glumac>
+        <glumac idGlumac="99">
+            <imePrezime>Patrick Wilson</imePrezime>
+        </glumac>
+        <glumac idGlumac="100">
+            <imePrezime>Julian Hilliard</imePrezime>
+        </glumac>
+        <glumac idGlumac="101">
+            <imePrezime>Tom Cruise</imePrezime>
+        </glumac>
+        <glumac idGlumac="102">
+            <imePrezime>Val Kilmer</imePrezime>
+        </glumac>
+        <glumac idGlumac="103">
+            <imePrezime>Jennifer Connelly</imePrezime>
+        </glumac>
+        <glumac idGlumac="104">
+            <imePrezime>Dwayne Johnson</imePrezime>
+        </glumac>
+        <glumac idGlumac="105">
+            <imePrezime>Emily Blunt</imePrezime>
+        </glumac>
+        <glumac idGlumac="106">
+            <imePrezime>Edgar Ramirez</imePrezime>
+        </glumac>
+        <glumac idGlumac="107">
+            <imePrezime>Jack Whitehall</imePrezime>
+        </glumac>
+        <glumac idGlumac="108">
+            <imePrezime>Jesse Plemons</imePrezime>
+        </glumac>
+        <glumac idGlumac="109">
+            <imePrezime>Paul Giamatti</imePrezime>
+        </glumac>
+        <glumac idGlumac="110">
+            <imePrezime>Gemma Arterton</imePrezime>
+        </glumac>
+        <glumac idGlumac="111">
+            <imePrezime>Matthew Goode</imePrezime>
+        </glumac>
+        <glumac idGlumac="112">
+            <imePrezime>Aaron Taylor-Johnson</imePrezime>
+        </glumac>
+        <glumac idGlumac="113">
+            <imePrezime>Ralph Fiennes</imePrezime>
+        </glumac>
+        <glumac idGlumac="114">
+            <imePrezime>Branka Katić</imePrezime>
+        </glumac>
+        <glumac idGlumac="115">
+            <imePrezime>Kenneth Branagh</imePrezime>
+        </glumac>
+        <glumac idGlumac="116">
+            <imePrezime>Gal Gadot</imePrezime>
+        </glumac>
+        <glumac idGlumac="117">
+            <imePrezime>Armie Hammer</imePrezime>
+        </glumac>
+        <glumac idGlumac="118">
+            <imePrezime>Cillian Murphy</imePrezime>
+        </glumac>
+        <glumac idGlumac="119">
+            <imePrezime>Noah Jupe</imePrezime>
+        </glumac>
+        <glumac idGlumac="120">
+            <imePrezime>Rebecca Ferguson</imePrezime>
+        </glumac>
+        <glumac idGlumac="121">
+            <imePrezime>Timothée Chalamet</imePrezime>
+        </glumac>
+        <glumac idGlumac="122">
+            <imePrezime>Zendaya</imePrezime>
+        </glumac>
+        <glumac idGlumac="123">
+            <imePrezime>Daniel Craig</imePrezime>
+        </glumac>
+        <glumac idGlumac="124">
+            <imePrezime>Léa Seydoux</imePrezime>
+        </glumac>
+        <glumac idGlumac="125">
+            <imePrezime>Ana de Armas</imePrezime>
+        </glumac>
+        <glumac idGlumac="126">
+            <imePrezime>Rami Malek</imePrezime>
+        </glumac>
+        <glumac idGlumac="127">
+            <imePrezime>Christoph Waltz</imePrezime>
+        </glumac>
+        <glumac idGlumac="128">
+            <imePrezime>Robert DiroMe</imePrezime>
+        </glumac>
+    </glumci>
+</glumci>
